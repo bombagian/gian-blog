@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "gian-blog"
+  title: "G.I.A.N. (Gian's Ideas and Notes)"
   navbar:
     right:
       - about.qmd
